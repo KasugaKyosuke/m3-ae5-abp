@@ -41,7 +41,6 @@ ironman.habilidades = ["Volar", "Inteligencia Superior", "Dinero Ilimitado", "Gu
 ironman.activo = true;
 ironman.energia = generaValorEnergia();
 
-
 console.log(superman.saludo());
 console.log(batman.saludo());
 console.log(ironman.saludo());
